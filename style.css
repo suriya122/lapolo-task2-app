@@ -1,0 +1,49 @@
+body{
+    background-color:#eee;
+}
+.carousel-indicators{
+    
+    display: inline;
+    margin-left: 6%;
+    bottom:90px;
+   
+}
+#custom{
+    margin: 5% 1%;
+    height: 500px;
+  
+    
+}
+.carousel-indicators li{
+    height:110px;
+    width:2px;
+    border-top: 0;
+    border-bottom: 0;
+    
+}
+
+.carousel-control-next, .carousel-control-prev{
+    width: 30%;
+    top: 500px;
+}
+.inditext{
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: yellow;
+}
+.ft{
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    color: white;
+    font-family: 'Cinzel', serif;
+    font-size: 2rem;
+}
+.fp{
+    position: absolute;
+    font-family: 'Merriweather', serif;
+    top:46%;
+    left: 15%;
+    font-size: 1rem;
+    color: rgb(199, 235, 235);
+}
