@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lapolo-task2-app/static/js/main.df3f95b9.chunk.js",
+    "main.js.map": "/lapolo-task2-app/static/js/main.df3f95b9.chunk.js.map",
+    "runtime-main.js": "/lapolo-task2-app/static/js/runtime-main.733a4d15.js",
+    "runtime-main.js.map": "/lapolo-task2-app/static/js/runtime-main.733a4d15.js.map",
+    "static/js/2.858754f6.chunk.js": "/lapolo-task2-app/static/js/2.858754f6.chunk.js",
+    "static/js/2.858754f6.chunk.js.map": "/lapolo-task2-app/static/js/2.858754f6.chunk.js.map",
+    "index.html": "/lapolo-task2-app/index.html",
+    "static/js/2.858754f6.chunk.js.LICENSE.txt": "/lapolo-task2-app/static/js/2.858754f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733a4d15.js",
+    "static/js/2.858754f6.chunk.js",
+    "static/js/main.df3f95b9.chunk.js"
+  ]
+}
