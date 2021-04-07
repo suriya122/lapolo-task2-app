@@ -1,6 +1,8 @@
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project I just created the customised design of Boostrap carousel has React Component. Feel free to use this carousel component design.
 
 ## Available Scripts
 
