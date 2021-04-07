@@ -1,9 +1,9 @@
 
 
-# Getting Started with Create React App
+# Create React App
 
 This project I just created the customised design of Boostrap carousel has React Component. Feel free to use this carousel component design.
-
+LIVE DEMO-  https://suriya122.github.io/lapolo-task2-app/
 ## Available Scripts
 
 In the project directory, you can run:
